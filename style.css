@@ -1,0 +1,48 @@
+body{
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+
+}
+
+.floatText{
+  color:#f9f3f4;
+  position: absolute;
+  text-align: center;
+  top: 40%;
+  width: 100%;
+  line-height: 0.4em;
+}
+
+h1{
+  font-size: 50px;
+}
+
+.btn1{
+  color: #fff;
+  text-decoration: none;
+  border: #ccc 1px solid;
+  padding: 10px 25px;
+  border-radius: 8px;
+  line-height: 4em;
+}
+
+.btn2{
+  color: #fff;
+  text-decoration: none;
+  border: #ccc 1px solid;
+  padding: 10px 15px;
+  border-radius: 8px;
+  line-height: 4em;
+}
+
+#particles-js{
+  position: absolute;
+  background:#222222;
+  height:100%;
+  width: 100%;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
